@@ -27,8 +27,8 @@ This is a Node.js-based API for managing movie notes and tags, developed as part
 
 1. Clone the repository
 ```bash
-git clone https://github.com/csrprojects/ExpertN8AppNode.git
-cd ExpertN8AppNode
+git clone https://github.com/csrprojects/expertS10FrontAndBack.git
+cd expertS10FrontAndBack/backend
 ```
 
 2. Install dependencies
